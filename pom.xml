@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.jagrosh</groupId>
+    <groupId>com.kokodev</groupId>
     <artifactId>JLyrics</artifactId>
-    <version>0.5</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     
     <dependencies>
@@ -69,7 +69,7 @@
         <repository>
             <id>github</id>
             <name>GitHub jagrosh Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/jagrosh/JLyrics</url>
+            <url>https://maven.pkg.github.com/kokofixcomputers-actions/JLyrics-fork</url>
         </repository>
     </distributionManagement>
 
