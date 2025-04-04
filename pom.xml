@@ -69,7 +69,7 @@
         <repository>
             <id>github</id>
             <name>GitHub jagrosh Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/kokofixcomputers-actions/JLyrics-fork</url>
+            <url>https://maven.pkg.github.com/kokofixcomputers-discord-bots/JLyrics-fork</url>
         </repository>
     </distributionManagement>
 
