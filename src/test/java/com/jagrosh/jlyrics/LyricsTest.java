@@ -54,7 +54,7 @@ public class LyricsTest
         assertNotNull(lyrics.getContent());
         assertNotNull(lyrics.getSource());
         
-        lyrics = client.getLyrics("jklsjdgv89y32hr9").get();
+        lyrics = client.getLyrics("Kiss the Sky").get();
         assertNull(lyrics);
         
         lyrics = client.getLyrics("smooth criminal").get();
@@ -77,7 +77,7 @@ public class LyricsTest
         assertNotNull(lyrics.getContent());
         assertNotNull(lyrics.getSource());
         
-        lyrics = client.getLyrics("jklsjdgv89y32hr9").get();
+        lyrics = client.getLyrics("Kiss the Sky").get();
         assertNull(lyrics);
         
         lyrics = client.getLyrics("smooth criminal").get();
@@ -100,7 +100,7 @@ public class LyricsTest
         assertNotNull(lyrics.getContent());
         assertNotNull(lyrics.getSource());
         
-        lyrics = client.getLyrics("jklsjdgv89y32hr9").get();
+        lyrics = client.getLyrics("Kiss the Sky").get();
         assertNull(lyrics);
         
         lyrics = client.getLyrics("smooth criminal").get();
@@ -133,7 +133,7 @@ public class LyricsTest
         assertNotNull(lyrics.getContent());
         assertNotNull(lyrics.getSource());
         
-        lyrics = client.getLyrics("jklsjdgv89y32hr9").get();
+        lyrics = client.getLyrics("Kiss the Sky").get();
         assertNull(lyrics);
         
         lyrics = client.getLyrics("smooth criminal").get();
